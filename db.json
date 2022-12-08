@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 4,
+      "firstName": "Raed",
+      "lastName": "Menjli",
+      "email": "raedmenjli@gmail.com",
+      "mobile": "22 222 222",
+      "salary": "2000"
+    },
+    {
+      "id": 5,
+      "firstName": "Leith",
+      "lastName": "Mbarek",
+      "email": "leithmbarek@gmail.com",
+      "mobile": "55 555 555",
+      "salary": "100"
+    },
+    {
+      "id": 6,
+      "firstName": "Ali",
+      "lastName": "Ali",
+      "email": "ali@gmail.com",
+      "mobile": "99 999 999",
+      "salary": "200"
+    },
+    {
+      "id": 7,
+      "firstName": "Rami",
+      "lastName": "Menjli",
+      "email": "rami@gmail.com",
+      "mobile": "45 454 455",
+      "salary": "888888"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
